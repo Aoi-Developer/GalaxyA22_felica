@@ -1,0 +1,26 @@
+ro.build.description=a22exdcm-user 11 RP1A.200720.012 SC56BOMU1AVC2 release-keys
+ro.build.display.id=RP1A.200720.012.SC56BOMU1AVC2
+ro.build.flavor=a22exdcm-user
+ro.build.product=SC-56B
+ro.product.brand=samsung
+ro.product.manufacturer=samsung
+ro.product.build.fingerprint=samsung/SC-56B/SC-56B:11/RP1A.200720.012/SC56BOMU1AVC2:user/release-keys
+ro.product.build.type=user
+ro.product.cert=SC-56B
+ro.product.model=SC-56B
+ro.product.name=SC-56B
+ro.product.device=SC-56B
+
+ro.product.product.brand=samsung
+ro.product.product.device=SC-56B
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SC-56B
+ro.product.product.name=SC-56B
+ro.product.system.brand=samsung
+ro.product.system.device=a22ex
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SC-56B
+ro.product.system.name=a22exdcm
+
+ro.system.build.type=user
+ro.system_ext.build.type=user
